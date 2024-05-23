@@ -10,12 +10,16 @@ System level programmer and game developer
 
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🔥 Stats
+## :computer: Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klinok303&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klinok303&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klinok303&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klinok303&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klinok303&theme=monokai)
+
+## 🔥 Streak
+![klinok303's Streak](http://github-readme-streak-stats.herokuapp.com/?user=klinok303&theme=tokyonight&hide_border=true)
+![klinok303's Top Languages](http://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **klinok303/klinok303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
