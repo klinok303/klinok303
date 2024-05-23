@@ -11,7 +11,7 @@ System level programmer and game developer
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🔥 Streak
-[![klinok303's Streak](https://github-readme-streak-stats.herokuapp.com/?user=klinok303&theme=tokyonight&hide_border=true)](https://camo.githubusercontent.com/a470d81dd56e19ab59bc2ffbea3d90c24d58fa2f907353cbd9f046ba50e5988e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b6c696e6f6b333033267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)
+![klinok303's Streak](https://github-readme-streak-stats.herokuapp.com/?user=klinok303&theme=tokyonight&hide_border=true)
 ![klinok303's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <!--
