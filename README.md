@@ -1,6 +1,16 @@
 # Hi there, I'm Stackframe :wave:
-## System level programmer and game developer
-# About
+System level programmer and game developer
+## My Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+
+- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 🔥 Streak
 ![klinok303's Streak](https://github-readme-streak-stats.herokuapp.com/?user=klinok303&theme=tokyonight&hide_border=true)
 ![klinok303's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
