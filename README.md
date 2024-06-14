@@ -8,7 +8,7 @@ System level programmer and game developer
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
-- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 🌱 I’m currently learning ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
 
 ## :computer: Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klinok303&theme=monokai)
