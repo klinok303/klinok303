@@ -8,18 +8,16 @@ System level programmer and game developer
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
+- 🔭 I’m currently working on [llnim](https://github.com/klinok303/llnim)
 - 🌱 I’m currently learning ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
 
 ## :computer: Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klinok303&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klinok303&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klinok303&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=klinok303&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klinok303&theme=monokai)
+![](https://komarev.com/ghpvc/?username=klinok303)
 
-## 🔥 Streak
 ![klinok303's Streak](https://github-readme-streak-stats.herokuapp.com/?user=klinok303&theme=tokyonight&hide_border=true)
-![klinok303's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klinok303&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klinok303&theme=tokyonight)
 
 <!--
 **klinok303/klinok303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
