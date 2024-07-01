@@ -9,7 +9,7 @@ System level programmer and game developer
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 - 🔭 I’m currently working on [llnim](https://github.com/klinok303/llnim)
-- 🌱 I’m currently learning ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
+- 🌱 I’m currently learning ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 
 ## :computer: Stats
 ![](https://komarev.com/ghpvc/?username=klinok303)
