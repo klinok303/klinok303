@@ -15,9 +15,9 @@ System level programmer and game developer
 ![](https://komarev.com/ghpvc/?username=klinok303)
 
 ![klinok303's Streak](https://github-readme-streak-stats.herokuapp.com/?user=klinok303&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&layout=compact&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klinok303&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klinok303&theme=tokyonight)
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=klinok303&theme=tokyonight&layout=compact&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klinok303&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=klinok303&theme=tokyonight)
 
 <!--
 **klinok303/klinok303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
